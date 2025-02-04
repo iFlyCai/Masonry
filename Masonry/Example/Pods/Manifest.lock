@@ -1,0 +1,16 @@
+PODS:
+  - Masonry (0.0.1)
+
+DEPENDENCIES:
+  - Masonry (from `../`)
+
+EXTERNAL SOURCES:
+  Masonry:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 9d4f0ea584e59176acbd4822ecf6a4f4b4187dfc
+
+PODFILE CHECKSUM: 9cda9f6fdb328a346986adf14b514e26b71d9c04
+
+COCOAPODS: 1.16.2

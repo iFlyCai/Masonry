@@ -1,0 +1,22 @@
+{
+  "name": "Masonry",
+  "version": "0.0.1",
+  "summary": "通用工具库，用于简化 iOS 开发中的基础功能实现。",
+  "description": "IFLYCommonKit 是一个通用工具库，提供基础视图控制器类、工具类以及常用视图组件，帮助开发者提高开发效率。\n更新日志:0.0.1 增加更新Masonry",
+  "homepage": "https://github.com/iFlyCai/Masonry",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangchengcai3615@126.com": "zhangchengcai3615@126.com"
+  },
+  "source": {
+    "git": "https://github.com/iFlyCai/Masonry.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "15.6"
+  },
+  "source_files": "Masonry/Classes/**/*"
+}
