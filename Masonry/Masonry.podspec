@@ -25,7 +25,7 @@ DESC
 
   s.ios.deployment_target = '15.6'
 
-  s.source_files = 'Masonry/Classes/**/*'
+  s.source_files = 'Masonry/Masonry/Classes/**/*'
   
   # s.resource_bundles = {
   #   'Masonry' => ['Masonry/Assets/*.png']
